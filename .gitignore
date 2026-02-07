@@ -1,0 +1,15 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE project files
+.settings/
+.project
+.classpath
+
+# Build folders
+out/
+bin/
+
+# Logs
+*.log
